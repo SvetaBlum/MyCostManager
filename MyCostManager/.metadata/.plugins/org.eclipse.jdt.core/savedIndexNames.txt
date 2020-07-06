@@ -1,0 +1,14 @@
+INDEX VERSION 1.131+C:\Users\User\eclipse-workspace\MyCostManager\.metadata\.plugins\org.eclipse.jdt.core
+843585989.index
+262099061.index
+2027888407.index
+2103231971.index
+1454723619.index
+2857411338.index
+3246189780.index
+1208075789.index
+2841721569.index
+1805272923.index
+337203849.index
+2176727742.index
+1140661257.index
